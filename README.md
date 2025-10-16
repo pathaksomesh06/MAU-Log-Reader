@@ -26,23 +26,12 @@ The application works by:
 3.  **Identifying Applications**: It uses a list of official Microsoft Application Identifiers (e.g., `TEAMS21` for Teams, `OPIM2019` for Outlook) to accurately categorize each log entry.
 4.  **Generating Explanations**: A custom parser analyzes the content of the log message, identifies key patterns and data points, and generates a simple, "human-readable" explanation of what the log entry means.
 
-## Getting Started
+## Installation
 
-To get a local copy up and running, follow these simple steps.
-
-### Prerequisites
-
-- macOS
-- Xcode
-
-### Installation
-
-1.  Clone the repo:
-    ```sh
-    git clone https://github.com/your_username/MAU-Log-Reader.git
-    ```
-2.  Open the `MAU-Log-Reader.xcodeproj` file in Xcode.
-3.  Build and run the project. The app should launch, and you can start analyzing logs immediately.
+1. Download the `MAU-Log-Reader-1.0.0.pkg` installer
+2. Double-click to open the installer
+3. Follow the installation wizard
+4. Launch MAU Log Reader from Applications folder
 
 ## Usage
 
